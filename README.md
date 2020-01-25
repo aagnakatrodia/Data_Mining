@@ -39,8 +39,7 @@ Using the rent categories as the dependent variable and the crime code, neighbor
 
 <b>Conclusion</b>
 
-•	The city of Los Angeles is susceptible to a variety of crimes with BATTERY-SIMPLE<br><br>
-•	ASSAULTS being most prevalent across the neighborhoods. <br><br>
+•	The city of Los Angeles is susceptible to a variety of crimes with BATTERY-SIMPLE ASSAULTS being most prevalent across the neighborhoods. <br><br>
 •	The BURGLARY FROM VEHICLE ranks second in the list , also consisting of crimes such as THEFT OF IDENTITY , PETTY THEFTS (<$90) , BURGLARY and SIMPLE ASSAULTS BY INTIMATE PARTNER. <br><br>
 •	The Female population is more susceptible to Assaults whereas the Male population is more susceptible to Burglaries. <br><br>
 •	The analysis of Crime rates reveals that the people in mid-twenties are at high risk in the city. <br><br>
